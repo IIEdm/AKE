@@ -16,7 +16,7 @@ python test.py
 If you find the code is useful for your research, please cite this paper:
 ```
 @inproceedings{AKE
-author={Xixun Lin and Yang Hong and Jia Wu and Chuan Zhou and Bin Wang},
+author={Xixun Lin and Hong Yang and Jia Wu and Chuan Zhou and Bin Wang},
 title={Guiding Entity Alignment via Adversarial Knowledge Embedding},
 journal={IEEE International Conference On Data Mining (ICDM)},
 year={2019}
