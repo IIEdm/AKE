@@ -2,15 +2,17 @@
 The implementation of our ICDM 2019 paper "Guiding Entity Alignment via Adversarial Knowledge Embedding" [AKE](http://ddl.escience.cn/ff/endH).
 ## Requirements
 python 3.5.3  
-  torch == 0.31  
-   numpy == 1.15
+  torch == 0.3.1  
+   numpy == 1.15  
+     scipy == 1.1.0  
+        scikit-learn == 0.20.0
 ## How to use
 ### Dataset
 tar -zxvf data.tar.gz data  
  The data folder includes our propocessed data JA-EN for training and testing.   
  The orginal datasets can be founded from [here](https://github.com/nju-websoft/JAPE). 
 ### Training 
-python AKE.py/AKE_FR.py/AKE_MR.py # with default hyper-parameters 
+ zsh train.sh/train_variants.sh    # training AKE and variants with default hyper-parameters 
 ### Testing 
 python test.py
 ## Citation 
