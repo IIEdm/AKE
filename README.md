@@ -5,7 +5,8 @@ python 3.5
  torch == 0.31  
    numpy == 1.14
 ## How to use
-###
-The data folder includes our propocessed datasets for training and test. 
+### Dataset
+The data folder includes our propocessed data for training and test.   
+ The orginal datasets can be founded from [here](https://github.com/nju-websoft/JAPE)
  
  
