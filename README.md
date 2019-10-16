@@ -1,8 +1,8 @@
 # AKE
 The implementation of our ICDM 2019 paper "Guiding Entity Alignment via Adversarial Knowledge Embedding" [AKE](http://ddl.escience.cn/ff/endH).
 ## Requirements
-python 3.5.3 
- torch == 0.31  
+python 3.5.3  
+  torch == 0.31  
    numpy == 1.15
 ## How to use
 ### Dataset
