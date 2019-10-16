@@ -18,7 +18,7 @@ If you find the code is useful for your research, please cite this paper:
 @inproceedings{AKE
 author={Xixun Lin and Yang Hong and Jia Wu and Chuan Zhou and Bin Wang},
 title={Guiding Entity Alignment via Adversarial Knowledge Embedding},
-journal={ACM Transactions on Graphics (Proc. SIGGRAPH)},
+journal={IEEE },
 year={2019}
 }
-‘’‘
+```
