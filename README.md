@@ -1,5 +1,5 @@
 # AKE
-The implementation of our ICDM 2019 paper "Guiding Entity Alignment via Adversarial Knowledge Embedding" [AKE](http://ddl.escience.cn/ff/endH).
+The implementation of our ICDM 2019 paper "Guiding Entity Alignment via Adversarial Knowledge Embedding" [AKE](https://ieeexplore.ieee.org/document/8970718).
 ## Requirements
 python 3.5.3  
   torch == 0.3.1  
