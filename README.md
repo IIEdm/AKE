@@ -18,10 +18,10 @@ python test.py
 ## Citation 
 If you find the code is useful for your research, please cite this paper:
 ```
-@inproceedings{AKE
-author={Xixun Lin and Hong Yang and Jia Wu and Chuan Zhou and Bin Wang},
+@inproceedings{lin2019:AKE,
+author={Lin, Xixun and Yang, Hong and Wu, Jia and Zhou, Chuan and Wang, Bin},
 title={Guiding Entity Alignment via Adversarial Knowledge Embedding},
-journal={IEEE International Conference On Data Mining (ICDM)},
+booktitle={IEEE International Conference On Data Mining (ICDM)},
 year={2019}
 }
 ```
